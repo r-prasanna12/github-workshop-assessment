@@ -13,4 +13,4 @@ This repository is created for GitHub workshop practice.
 ## Folder Structure
 - README.md
 - intro.txt
-Editied line
+Resolved
